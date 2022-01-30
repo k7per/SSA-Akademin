@@ -1,0 +1,36 @@
+Jobb som behöver göras
+	Klassificera alla typer av figurer vi behöver.
+	Vilka figurer är inte bra, vilke behöver förbättras?
+
+
+
+Classes of figures
+
+* Ritade
+	exempel 1.1, 2.3
+	Fortsätt ha dessa ritade.
+	Välj program.
+
+* Kretsar
+
+1.4 Flytta texten till caption.
+    Vanlig krets?
+
+1.10 krets
+
+* Signaler
+	Exempel 1.20, 1.26, 1.27
+  	Vi borde kunna göra dessa i Octave med latex text?
+  	Vi behöver
+	   snygg FFT plot, spektrum
+	   filterkurva
+	Med ett litet bibliotek så borde vi kunna standarisera hur dessa ser ut.
+
+* Blockdiagram
+	Exempel 1.39, alla olika radio
+	Litet bibliotek av standardblock
+
+
+* Kombinationer
+	Exempel 3.18
+
