@@ -1,13 +1,21 @@
 Jobb som behöver göras
 	Klassificera alla typer av figurer vi behöver.
-	  Diskutera på vilket standardsätt varje klass ska göras.
+	
+	Diskutera på vilket standardsätt varje klass ska göras.
+
 	Vilka figurer är inte bra, vilka behöver förbättras?
+
 	Själva texten borde kollas samtidigt så att vi gör nya figurer
 	till den text vi verkjligen vill ha kvar och bygga på.
 
 	Kan vi göra i alla fall vissa av kretsarna så att de fungerar
 	som exempel, man kan ladda ner ngspice eller så och
 	experimentera själv.
+
+	Gör figurerna mer flexibla så att layout är lättare, kunna
+	stapla om figurer som liggande eller stående. 
+
+	Gör all text i figurerna lika stora.
 
 
 Classes of figures
@@ -22,6 +30,9 @@ Classes of figures
 1.4 Flytta texten till caption.
     Vanlig krets?
 
+    Kan vi bygga på det some finns i kapitel 4?
+    	Har vi alla delar vi behöver?
+	
 1.10 krets
 
 * Signaler
